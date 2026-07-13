@@ -1,55 +1,68 @@
 # Hi there 👋, I'm Neha Bali
 
-## Senior Android Developer | Kotlin | Java | Flutter
+## Senior Android Developer | Android | Kotlin | Java | Flutter
 
-I am a Senior Android Developer with **8+ years of experience** building high-quality mobile applications for the insurance, fitness, and enterprise domains.
+I am a **Senior Android Developer** with **8+ years of experience** building high-quality Android applications across the insurance, fitness, and enterprise domains.
 
-I enjoy designing scalable mobile applications using modern Android technologies and clean architecture principles. Alongside native Android development, I also have professional experience with Flutter and enjoy continuously learning new technologies.
-
-Currently, I'm building **Zaika**, a production-style food ordering application using modern Android development practices.
+My expertise includes developing scalable and maintainable mobile applications using **Kotlin**, **Java**, **MVVM**, **Hilt**, **Coroutines**, **Retrofit**, **Firebase**, and modern Android development practices. Alongside native Android development, I also have professional experience with **Flutter** and enjoy continuously learning new technologies to build better software.
 
 ---
+
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 - Kotlin
 - Java
 - Dart
 
-### Android
+### 📱 Android
 - Android SDK
 - Jetpack Compose
-- MVVM
+- MVVM Architecture
 - Hilt
-- Coroutines
-- Flow
+- Kotlin Coroutines
+- Flow & StateFlow
 - Retrofit
 - Room
 - Firebase
-- Google Maps
+- Google Maps SDK
 
-### Flutter
+### 🔥 Flutter
 - Flutter
 - BLoC
 
-### Tools
+### 🛠 Tools
 - Android Studio
 - Git
 - GitHub
 - Postman
 - Firebase Console
 
-- ## 🚀 Currently Working On
+---
 
-- 🍔 Zaika – Modern Food Ordering App
-- 📚 Learning advanced Jetpack Compose
-- 🏗 Exploring scalable Android architecture
+## 🚀 Current Focus
 
-- ## 📫 Connect with Me
+I'm currently building **Zaika**, a production-style food ordering application to strengthen my expertise in modern Android development.
 
-- LinkedIn: https://www.linkedin.com/in/neha-bali-09aa73179
-- GitHub: https://github.com/nehabali6746
+### Technologies
+- Jetpack Compose
+- Clean Architecture
+- MVVM
+- Hilt
+- Room
+- Retrofit
+- Coroutines
+- StateFlow
 
-- ## 💡 What I Believe
+---
 
-I believe great mobile applications are built through clean architecture, readable code, continuous learning, and solving real-world problems with simple and scalable solutions.
+## 📫 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/neha-bali-09aa73179
+- **GitHub:** https://github.com/nehabali6746
+
+---
+
+## 💡 What I Believe
+
+I believe great mobile applications are built through clean architecture, clean and maintainable code, continuous learning, and solving real-world problems with simple, scalable solutions.
